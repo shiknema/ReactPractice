@@ -1,0 +1,9 @@
+
+.card-img-top:hover { 
+transform: scale(1.05);
+
+  }
+  h4{
+    text-justify: newspaper;
+    color: rgb(17, 17, 78);
+  }
