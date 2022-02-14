@@ -28,10 +28,8 @@ class MovieApiCall extends React.Component {
 
     render() {
         return (
-            <div>
-                <h1>
-                    Movies Collection
-                </h1>
+            <div className = "container">
+                <div></div>
               <MovieDisplay sendApiData={this.state.apiData}/>
             </div>
         )

@@ -21,7 +21,7 @@ const JasonDataView = (props) => {
             JsonData= {props.jsondataload.map((data) => {
                 return (
                     
-                        <div key={data.id}>
+                        <div key = {data.id}>
                             <h3>{data.name}</h3>
                             {/*<img src={data.img} className="img-responsive" alt=" " />*/}
                             <p>{data.description}</p>

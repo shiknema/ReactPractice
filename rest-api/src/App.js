@@ -1,10 +1,12 @@
 import Header from './Component/Header';
-import './App.css';
+//import WeatherData from './weatherData';
 
 function App() {
   return (
     <div>
-      <Header/>
+      <h1>Movies </h1>
+    <Header/>
+      {/**<WeatherData/>  */}
     </div>
   );
 }

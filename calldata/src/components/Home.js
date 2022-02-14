@@ -2,8 +2,8 @@ import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import DisplayCourse from './DisplayCourse';
-import JSON from './../Course.json';
-import Users from './../User.json';
+import JSON from './../JSON/Course.json';
+import Users from './../JSON/User.json';
 //import DisplayUserInfo from './DisplayUserInfo'
 
 //const JSONdata =  JSON.courses;

@@ -1,8 +1,6 @@
 import CallingWithAxioswithAysncAwait from './component/AxiosWithAysncAwait';
 import AxiosCall from './component/AxiosCall'
 
-import './App.css';
-
 function App() {
   return (
     <div className="App">
